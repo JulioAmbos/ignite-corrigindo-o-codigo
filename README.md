@@ -21,7 +21,7 @@ Após algumas alterações no código da aplicação, parte dos testes deixaram 
 - Navegue até o diretório principal do projeto
 
 ```
-> cd ignite-trabalhando-com-middlewares
+> cd ignite-corrigindo-o-codigo
 ```
 
 - Instale as dependências com o Yarn
